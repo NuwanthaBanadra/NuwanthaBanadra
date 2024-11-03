@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at **Conca Editz**<br><br>🌱 I’m currently studying **BSc (Hons) in Software Engineering at the Java Institute for Advanced Technology and Birmingham City University**<br><br>💬 Ask me about **Web Application Development, Object-Oriented Programming, and Backend & Frontend Development**<br><br>📫 How to reach me: **nuwanthaban@gmail.com**<br>**www.linkedin.com/in/nuwantha-heshan-968034296**<br><br>⚡ Fun fact: **I combine technical skills with creativity to design user-centered applications and intuitive visuals**<br>
+🔭 I’m currently working at **Conca Editz**<br><br>🌱 I’m currently studying **BSc (Hons) in Software Engineering at the Java Institute for Advanced Technology and Birmingham City University**<br><br>💬 Ask me about **Web Application Development, Object-Oriented Programming, and Backend & Frontend Development**<br><br>📫 How to reach me : **nuwanthaban@gmail.com** LinkedIn : **www.linkedin.com/in/nuwantha-heshan-968034296**<br><br>⚡ Fun fact : **I combine technical skills with creativity to design user-centered applications and intuitive visuals**<br>
 
 
 ## 🌐 Socials:
