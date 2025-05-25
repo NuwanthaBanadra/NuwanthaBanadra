@@ -61,6 +61,6 @@
 
 <br/>
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-snake.svg)
+![Snake animation](https://github.com/NuwanthaBanadra/NuwanthaBanadra/blob/output/github-snake.svg)
 
 
