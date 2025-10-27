@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+👋;I'm+Nuwantha+Heshan!;Welcome+to+my+GitHub!;Let's+Build+Something+Amazing+💡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+👋;I'm+Nuwantha+Heshan!;Welcome+to+my+GitHub!;Let's+Build+Something+Amazing"/>
 </h1>
 
 <!-- Subtitle -->
