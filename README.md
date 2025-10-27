@@ -98,3 +98,8 @@ I believe in building **human-centered software** — every feature, every line 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Keep+learning...+🚀;Keep+building...+💻;Keep+creating...+🎨;Keep+growing...+🌱" alt="Typing Animation"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="Footer Banner" width="800"/>
+</p>
+
