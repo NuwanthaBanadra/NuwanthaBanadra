@@ -12,11 +12,10 @@
 <h3 align="center">💻 Undergraduate Software Engineer | 🌐 Web Developer | 🎨 Creative Designer</h3>
 
 ---
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🚀 About Me  
-
-
 
 - 🔭 Currently working at **Conca Editz**  
 - 🎓 Studying **BSc (Hons) in Software Engineering** at *Java Institute for Advanced Technology* & *Birmingham City University*  
@@ -25,9 +24,7 @@
 - ⚡ Fun fact: I blend **code + design** to create intuitive and interactive digital experiences  
 - 🌱 Always learning — exploring **Next.js**, **Tailwind**, and **TypeScript** lately
 
-
 ---
-
 
 ### 🌐 Connect with Me  
 
@@ -50,9 +47,19 @@
 </p>
 
 ---
+### 📅 My Developer Routine  
+
+| ⏰ **Time** | 💻 **What I’m Doing** |
+|:------------|:----------------------|
+| 🌞 **Morning** | Debugging bugs I created yesterday 🪲 |
+| ☕ **Midday** | Writing clean, testable code ✍️ |
+| 🌇 **Evening** | Designing, refactoring, or gaming 🎮 |
+| 🌙 **Night** | Watching tutorials I’ll forget tomorrow 😅 |
+
+---
 
 ### 🧠 My Philosophy  
-> *"Code is not just logic — it’s creativity structured in syntax."*
+> *"Code is not just logic — it’s creativity structured in syntax."*  
 
 I believe in building **human-centered software** — every feature, every line of code, should make life a little simpler, smarter, or more beautiful.
 
@@ -102,4 +109,3 @@ I believe in building **human-centered software** — every feature, every line 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="Footer Banner" width="800"/>
 </p>
-
