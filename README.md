@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,javascript,php&includeNames=true" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,react,python,php,html,css,javascript&includeNames=true" />
 </p>
 
 ---
