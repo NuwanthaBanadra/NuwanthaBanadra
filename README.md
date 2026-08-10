@@ -17,7 +17,7 @@
 
 ### 🚀 About Me  
 
-- 🔭 Currently working at **Conca Editz**  
+- 🔭 Currently working at **Kaleox Software Solutions**  
 - 🎓 Studying **BSc (Hons) in Software Engineering** at *Java Institute for Advanced Technology* & *Birmingham City University*  
 - 💬 Ask me about **Web Development**, **OOP**, **Frontend & Backend Engineering**  
 - 🎨 I also design creative **UI/UX mockups and brand visuals**  
